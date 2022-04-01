@@ -47,21 +47,21 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
-https://www.w3schools.com/howto/howto_js_add_class.asp
-https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github 
-https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts 
+	https://www.w3schools.com/howto/howto_js_add_class.asp
+	https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github 
+	https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? 
 
-One of the challenges I encountered in creating this submission was that I didn’t know how to write the code in HTML when dealing with a class attribute. I tried a few test methods before I finally looked it up on Google on how to add class attributes. Another challenge I encountered was when I finished writing the code was that although the program was starting and playing the sequence of sounds, the buttons were not lighting up when the sound was being played. However, the buttons did light when the user clicked on the squares. I reviewed my code and realized that I had forgotten a semicolon in the CSS file in the active button lines. I had to go through the steps of the debugging process to find the tiny error. 
+	One of the challenges I encountered in creating this submission was that I didn’t know how to write the code in HTML when dealing with a class attribute. I tried a few test methods before I finally looked it up on Google on how to add class attributes. Another challenge I encountered was when I finished writing the code was that although the program was starting and playing the sequence of sounds, the buttons were not lighting up when the sound was being played. However, the buttons did light when the user clicked on the squares. I reviewed my code and realized that I had forgotten a semicolon in the CSS file in the active button lines. I had to go through the steps of the debugging process to find the tiny error. 
 
 3. What questions about web development do you have after completing your submission? 
 
-I manually coded a sequence of numbers in an array to have the buttons make sounds and light up. I was wondering how you would implement an API that already has an array of random numbers to refer to be able to play different sequences of lights and sounds for each new starting game.? Or would it be less of a hassle to create a random number generator in the HTML file itself? To have the game be timed, do we have to refer to a system clock or do other files or programs need to be imported in HTML?
+	I manually coded a sequence of numbers in an array to have the buttons make sounds and light up. I was wondering how you would implement an API that already has an array of random numbers to refer to be able to play different sequences of lights and sounds for each new starting game.? Or would it be less of a hassle to create a random number generator in the HTML file itself? To have the game be timed, do we have to refer to a system clock or do other files or programs need to be imported in HTML?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. 
 
-If I had a few more hours to work on this project, I would learn more about CSS to style the webpage more. I would learn more about the different fonts, color options as well as built in tools that CSS is able to import to make it more robust.  I would have a changing background for different themes depending on the day, as Google does on their primary search engine webpage. I would add different sequences of lights, so there would be variety in the game. I would also add a timer that counts down so that the player has to play the game in a specific time frame.
+	If I had a few more hours to work on this project, I would learn more about CSS to style the webpage more. I would learn more about the different fonts, color options as well as built in tools that CSS is able to import to make it more robust.  I would have a changing background for different themes depending on the day, as Google does on their primary search engine webpage. I would add different sequences of lights, so there would be variety in the game. I would also add a timer that counts down so that the player has to play the game in a specific time frame.
 
 ## Interview Recording URL Link
 
