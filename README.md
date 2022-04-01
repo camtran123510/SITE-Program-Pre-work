@@ -41,15 +41,19 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 Showing Start/Stop and each button working 
+
 ![](http://g.recordit.co/z8LGRovWD1.gif)
 
 Showing the game progressing with each correct answer
+
 ![](http://g.recordit.co/JhiI2MLbsW.gif)
 
 Showing the game winning 
+
 ![](http://g.recordit.co/y29wEBX5PN.gif)
 
 Showing the game losing 
+
 ![](http://g.recordit.co/EpbJsi3vKB.gif)
 
 ## Reflection Questions
