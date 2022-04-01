@@ -39,10 +39,18 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+
+Showing Start/Stop and each button working 
+![](http://g.recordit.co/z8LGRovWD1.gif)
+
+Showing the game progressing with each correct answer
+![](http://g.recordit.co/JhiI2MLbsW.gif)
+
+Showing the game winning 
+![](http://g.recordit.co/y29wEBX5PN.gif)
+
+Showing the game losing 
+![](http://g.recordit.co/EpbJsi3vKB.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
