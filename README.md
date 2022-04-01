@@ -6,7 +6,7 @@ Submitted by: **Cam Nhung Tran**
 
 Time spent: **2** hours spent in total
 
-Link to project: (https://dog-periwinkle-romano.glitch.me/)
+Link to project: https://dog-periwinkle-romano.glitch.me/
 
 ## Required Functionality
 
