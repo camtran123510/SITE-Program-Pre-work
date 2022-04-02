@@ -56,6 +56,10 @@ Showing the game losing
 
 ![](http://g.recordit.co/EpbJsi3vKB.gif)
 
+Optional features
+
+![](http://g.recordit.co/xO1hbh8r8b.gif)
+
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
