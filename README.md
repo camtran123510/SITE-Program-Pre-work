@@ -63,6 +63,10 @@ Showing the game losing
    https://www.w3schools.com/howto/howto_js_add_class.asp
    https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github
    https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts
+   https://www.color-hex.com/
+   https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Array
+   https://www.w3schools.com/js/js_random.asp
+   https://www.w3schools.com/js/js_loop_for.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it?
 
