@@ -3,12 +3,18 @@
 console.log("Hello, world!");
 
 // global constants
-const clueHoldTime = 1000; //how long to hold each clue's light/sound
+const clueHoldTime = 600; //how long to hold each clue's light/sound
 const cluePauseTime = 333; //how long to pause in between clues
 const nextClueWaitTime = 1000; //how long to wait before starting playback of the clue sequence
 
 //Global Variables
-var pattern = [8,6,4,2,1,3,5,7];
+
+var pattern = [1,1,1,1,1,1,1,1];
+for (let i = 0; i < pattern.length; i++) {
+  pattern[i] = Math.floor(Math.random() * 9);
+  console.log(pattern[i]);
+  
+}
 var progress = 0; 
 var gamePlaying = false;
 var tonePlaying = false;
