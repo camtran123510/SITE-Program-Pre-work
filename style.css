@@ -64,6 +64,34 @@ button{
 #button4:active, #button4.lit{
     background: yellow;
 }
+#button5 {
+    background: #ECA9FF;
+}
+#button5:active, #button5.lit{
+    background: magenta;
+}
+
+#button6 {
+    background: #fae3cc;
+}
+#button6:active, #button6.lit{
+    background: orange;
+}
+
+#button7 {
+    background: #4D4637;
+}
+#button7:active, #button7.lit{
+    background: black;
+}
+
+#button8 {
+    background: #19DED5;
+}
+#button8:active, #button8.lit{
+    background: #2810BF;
+}
+
 
 /* images and videos max out at full width */
 img,
